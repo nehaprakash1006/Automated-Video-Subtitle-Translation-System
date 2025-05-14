@@ -1,4 +1,3 @@
-```markdown
 # 🎬 Video Subtitle Translation System 🌍
 
 ## 🚀 Project Overview
@@ -31,4 +30,4 @@ Make sure you have the following tools installed before running the system:
 - 🖼️ **OpenCV**: For video manipulation and editing.
 - 🔑 **AssemblyAI API Key**: For speech recognition.
 - 🌍 **Translation API Key**: For translating subtitles.
-```
+
